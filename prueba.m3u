@@ -1,1 +1,31 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZ CINEMA
+http://gotv.vip:8880/josel/josel/22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZ CORAZON
+http://gotv.vip:8880/josel/josel/23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZ MUNDO
+http://gotv.vip:8880/josel/josel/24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZTECA 1
+http://gotv.vip:8880/josel/josel/25
+
+#EXTINF:-1 tvg-id="" tvg-name="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122015/untitled-1_203.png?itok=O7D2q81D" tvg-logo="" group-title="Televisa",CANAL 5
+http://gotv.vip:8880/josel/josel/32
+#EXTINF:-1 tvg-id="" tvg-name="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122015/untitled-1_203.png?itok=O7D2q81D" tvg-logo="" group-title="Televisa",LAS ESTRELLAS
+http://gotv.vip:8880/josel/josel/33
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122014/mx.png?itok=2AE3lWWV" group-title="Canales Locales",CANAL 11
+http://gotv.vip:8880/josel/josel/31
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",AMC
+http://gotv.vip:8880/josel/josel/16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",ANIMAL PLANET
+http://gotv.vip:8880/josel/josel/17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",ANTENA 3
+http://gotv.vip:8880/josel/josel/18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",AXN
+http://gotv.vip:8880/josel/josel/19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",AXN WHITE
+http://gotv.vip:8880/josel/josel/20
