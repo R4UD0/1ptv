@@ -2,14 +2,18 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZ CINEMA
-http://gotv.vip:8880/josel/josel/22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZ CORAZON
-http://gotv.vip:8880/josel/josel/23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZ MUNDO
-http://gotv.vip:8880/josel/josel/24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tv-azteca-2011-logo-2AB81404D6-seeklogo.com.png" group-title="TV Azteca",AZTECA 1
+#EXTINF:-1,AZTECA 7
+http://gotv.vip:8880/josel/josel/26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZTECA 1
 http://gotv.vip:8880/josel/josel/25
+#EXTINF:-1,LATINO | AZTECA 1  (-2 HORAS )
+http://gotv.vip:8880/josel/josel/37940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZ CINEMA
+http://gotv.vip:8880/josel/josel/22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZ CORAZON
+http://gotv.vip:8880/josel/josel/23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZ MUNDO
+http://gotv.vip:8880/josel/josel/24
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",CANAL 5
 http://gotv.vip:8880/josel/josel/32
@@ -17,13 +21,43 @@ http://gotv.vip:8880/josel/josel/32
 http://gotv.vip:8880/josel/josel/33
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",GALA TV
 http://gotv.vip:8880/josel/josel/82
+#EXTINF:-1,FORO TV
+http://gotv.vip:8880/josel/josel/68
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",CANAL 11
 http://gotv.vip:8880/josel/josel/31
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales,MEXIQUENSE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",MEXIQUENSE
 http://gotv.vip:8880/josel/josel/99
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales,MULTIMEDIOS MTY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",MULTIMEDIOS MTY
 http://gotv.vip:8880/josel/josel/100
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VIX+",LAT| AQUI & AHORA 24/7 VIX HD
+http://gotv.vip:8880/josel/josel/152987
+#EXTINF:-1tvg-name="" tvg-logo="" group-title="VIX+",LAT| CORAZON SALVAJE VIX+
+http://gotv.vip:8880/josel/josel/152991
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| CRONICA 24/7 VIX HD
+http://gotv.vip:8880/josel/josel/152992
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| CUIDADO CON EL ANGEL VIX+
+http://gotv.vip:8880/josel/josel/152993
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| DEL MERCADO AL PLATO VIX+
+http://gotv.vip:8880/josel/josel/152994
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| EL PRIVILEGIO DE AMAR VIX+
+http://gotv.vip:8880/josel/josel/152995
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| FAMILIA PELUCHE VIX+
+http://gotv.vip:8880/josel/josel/152996
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| HEROES DEL NORTE VIX+
+http://gotv.vip:8880/josel/josel/152997
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| LA PROMESA VIX+
+http://gotv.vip:8880/josel/josel/152999
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| LOMAS VIXTO VIX HD
+http://gotv.vip:8880/josel/josel/153000
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| MI GORDA BELLA VIX+
+http://gotv.vip:8880/josel/josel/153002
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| MOOVIEMAX VIX HD
+http://gotv.vip:8880/josel/josel/153003
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| TRES VECES ANA VIX+
+http://gotv.vip:8880/josel/josel/153010
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| TRIUNFO DEL AMOR VIX+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",AMC
 http://gotv.vip:8880/josel/josel/16
