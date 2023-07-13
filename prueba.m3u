@@ -1,44 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 1
 http://gotv.vip:8880/josel/josel/156012
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 5
 http://gotv.vip:8880/josel/josel/156013
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 4
 http://gotv.vip:8880/josel/josel/156014
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 2
 http://gotv.vip:8880/josel/josel/156015
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 3
 http://gotv.vip:8880/josel/josel/156016
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Acceso Total
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",La Casa de los Famosos Acceso Total
 http://gotv.vip:8880/josel/josel/156017
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos 24/7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",La Casa de los Famosos 24/7
 http://gotv.vip:8880/josel/josel/156018
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",LA CASA DE LOS FAMOSOS ACCESO TOTAL OP2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoreality.com/__export/1687221872669/sites/elimparcial/img/2023/06/19/la_casa_de_los_famosos_mxxico_portada.png_375107944.png" group-title="La Casa de los Famosos",LA CASA DE LOS FAMOSOS ACCESO TOTAL OP2
 http://gotv.vip:8880/josel/josel/156068
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZTECA 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",AZTECA 7
 http://gotv.vip:8880/josel/josel/26
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZTECA 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",AZTECA 1
 http://gotv.vip:8880/josel/josel/25
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca", AZTECA 1  (-2 HORAS )
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa", AZTECA 1  (-2 HORAS )
 http://gotv.vip:8880/josel/josel/37940
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZ CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",AZ CINEMA
 http://gotv.vip:8880/josel/josel/22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZ CORAZON
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",AZ CORAZON
 http://gotv.vip:8880/josel/josel/23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZ MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",AZ MUNDO
 http://gotv.vip:8880/josel/josel/24
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",CANAL 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",CANAL 5
 http://gotv.vip:8880/josel/josel/32
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",LAS ESTRELLAS
 http://gotv.vip:8880/josel/josel/33
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",GALA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",GALA TV
 http://gotv.vip:8880/josel/josel/82
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",FORO TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",FORO TV
 http://gotv.vip:8880/josel/josel/68
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",TELEVISA MONTEREY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca / Televisa",TELEVISA MONTEREY
 http://gotv.vip:8880/josel/josel/613
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",CANAL 11
@@ -184,6 +183,7 @@ http://gotv.vip:8880/josel/josel/351
 http://gotv.vip:8880/josel/josel/352
 #EXTINF:-1 group-title="Deportes",Adrenalina Sport Network
 http://gotv.vip:8880/josel/josel/353
+
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",DE PELICULA
 http://gotv.vip:8880/josel/josel/41
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",CINECANAL
