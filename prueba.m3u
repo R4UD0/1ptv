@@ -36,9 +36,9 @@ http://gotv.vip:8880/josel/josel/32
 http://gotv.vip:8880/josel/josel/33
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",GALA TV
 http://gotv.vip:8880/josel/josel/82
-#EXTINF:-1,FORO TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",FORO TV
 http://gotv.vip:8880/josel/josel/68
-#EXTINF:-1,TELEVISA MONTEREY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Televisa",TELEVISA MONTEREY
 http://gotv.vip:8880/josel/josel/613
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",CANAL 11
@@ -94,42 +94,41 @@ http://gotv.vip:8880/josel/josel/153003
 http://gotv.vip:8880/josel/josel/153010
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="VIX+",LAT| TRIUNFO DEL AMOR VIX+
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",AMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Cable",AMC
 http://gotv.vip:8880/josel/josel/16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Cable",ANIMAL PLANET
 http://gotv.vip:8880/josel/josel/17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",ANTENA 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Cable",ANTENA 3
 http://gotv.vip:8880/josel/josel/18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Cable",AXN
 http://gotv.vip:8880/josel/josel/19
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",AXN WHITE
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",AXN WHITE
 http://gotv.vip:8880/josel/josel/20
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",BANDAMAX
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",BANDAMAX
 http://gotv.vip:8880/josel/josel/27
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",CNN ESPAÑOL
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",CNN ESPAÑOL
 http://gotv.vip:8880/josel/josel/39
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",COMEDY CENTRAL
 http://gotv.vip:8880/josel/josel/40
-
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY CHANNEL
 http://gotv.vip:8880/josel/josel/42
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",HGTV
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",HGTV
 http://gotv.vip:8880/josel/josel/43
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY FAMILIA
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY FAMILIA
 http://gotv.vip:8880/josel/josel/45
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY H&H
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY H&H
 http://gotv.vip:8880/josel/josel/46
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY ID
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY ID
 http://gotv.vip:8880/josel/josel/47
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY KIDS 
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY KIDS 
 http://gotv.vip:8880/josel/josel/48
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY THEATER
 http://gotv.vip:8880/josel/josel/50
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY TLC
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY TLC
 http://gotv.vip:8880/josel/josel/51
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY TURBO
 http://gotv.vip:8880/josel/josel/52
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/971-9718135_cable-tv-icon-images-tv-cable-logo.png" group-title="Canales Cable",DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="" group-title="Canales Cable",DISCOVERY WORLD
 http://gotv.vip:8880/josel/josel/53
 
 #EXTINF:-1 tvg-logo="" group-title="Canales Niños",DISNEY CHANNEL
@@ -204,11 +203,6 @@ http://gotv.vip:8880/josel/josel/88
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",HBO FAMILY
 http://gotv.vip:8880/josel/josel/89
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",HBO PLUS
-
-#EXTINF:-1 tvg-logo="" group-title="Novelas",PASIONES
-http://gotv.vip:8880/josel/josel/108
-#EXTINF:-1 tvg-logo="" group-title="Novelas",TLnovelas
-http://gotv.vip:8880/josel/josel/370
 
 #EXTINF:-1 tvg-logo="" group-title="24/7",EL PRINCIPE DEL RAP
 http://gotv.vip:8880/josel/josel/156
