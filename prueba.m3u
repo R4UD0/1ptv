@@ -1,12 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 1
+http://gotv.vip:8880/josel/josel/156012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 5
+http://gotv.vip:8880/josel/josel/156013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 4
+http://gotv.vip:8880/josel/josel/156014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 2
+http://gotv.vip:8880/josel/josel/156015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Camara 3
+http://gotv.vip:8880/josel/josel/156016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos Acceso Total
+http://gotv.vip:8880/josel/josel/156017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",La Casa de los Famosos 24/7
+http://gotv.vip:8880/josel/josel/156018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="La Casa de los Famosos",LA CASA DE LOS FAMOSOS ACCESO TOTAL OP2
+http://gotv.vip:8880/josel/josel/156068
 
-#EXTINF:-1,AZTECA 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZTECA 7
 http://gotv.vip:8880/josel/josel/26
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZTECA 1
 http://gotv.vip:8880/josel/josel/25
-#EXTINF:-1,LATINO | AZTECA 1  (-2 HORAS )
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca", AZTECA 1  (-2 HORAS )
 http://gotv.vip:8880/josel/josel/37940
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Azteca",AZ CINEMA
 http://gotv.vip:8880/josel/josel/22
@@ -23,6 +38,8 @@ http://gotv.vip:8880/josel/josel/33
 http://gotv.vip:8880/josel/josel/82
 #EXTINF:-1,FORO TV
 http://gotv.vip:8880/josel/josel/68
+#EXTINF:-1,TELEVISA MONTEREY
+http://gotv.vip:8880/josel/josel/613
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",CANAL 11
 http://gotv.vip:8880/josel/josel/31
@@ -30,6 +47,24 @@ http://gotv.vip:8880/josel/josel/31
 http://gotv.vip:8880/josel/josel/99
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",MULTIMEDIOS MTY
 http://gotv.vip:8880/josel/josel/100
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", MULTIMEDIOS TORREON
+http://gotv.vip:8880/josel/josel/37947
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", RCG
+http://gotv.vip:8880/josel/josel/37948
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales",MRCG 2
+http://gotv.vip:8880/josel/josel/37949
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", RCG 3
+http://gotv.vip:8880/josel/josel/37950
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", CANAL 24 NRT
+http://gotv.vip:8880/josel/josel/37952
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", TV MAS
+http://gotv.vip:8880/josel/josel/37954
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", ULTRA PUEBLA
+http://gotv.vip:8880/josel/josel/37957
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", TELEMAX
+http://gotv.vip:8880/josel/josel/37959
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Locales", CANAL 10 NOTICIAS
+http://gotv.vip:8880/josel/josel/37960
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VIX+",LAT| AQUI & AHORA 24/7 VIX HD
 http://gotv.vip:8880/josel/josel/152987
