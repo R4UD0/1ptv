@@ -1,42 +1,54 @@
 #EXTM3U
-
-#EXTINF:-1,01 | FOX SPORTS MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/1971
-#EXTINF:-1,SPA | FX ® MX
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2824
-#EXTINF:-1,SPA | PARAMOUNT MX UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2826
-#EXTINF:-1,CINE: STAR CHANNEL MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3642
-#EXTINF:-1,CINE: TNT SERIES MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3644
-#EXTINF:-1,CINE: FX MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3645
-#EXTINF:-1,CINE: FX MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3646
-#EXTINF:-1,CINE: GOLDEN PLUS MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3648
-#EXTINF:-1,01 | ALL SPORTS (BR)
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3655
-#EXTINF:-1,18 | MTV LIVE MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3658
-#EXTINF:-1,60 | NATGEO
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3659
-#EXTINF:-1,KIDS | NAT GEO KIDS 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3660
-#EXTINF:-1,KIDS | NICK MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3662
-#EXTINF:-1,KIDS | NICKTOONS MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3665
-#EXTINF:-1,CINE: PARAMOUNT CHANNEL MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3667
-#EXTINF:-1,70 | RMS MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3669
-#EXTINF:-1,CINE: STUDIO UNIVERSAL MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3674
-#EXTINF:-1,02 | TELENOVELAS UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3678
-#EXTINF:-1,CINE: WARNER CHANNEL MX SD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3694
-#EXTINF:-1,03 | TLNOVELAS UHD
+#EXTINF:-1,CAM 2: La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162567
+#EXTINF:-1,CAM 3: La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162568
+#EXTINF:-1,CAM 4: La Casa de los Famosos
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162569
+#EXTINF:-1,CAM 5: La Casa de los Famosos ++Total++
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162912
+#EXTINF:-1,AXN
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3840
+#EXTINF:-1,Tooncast
+#EXTINF:-1,Comedy Central
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3845
+#EXTINF:-1,Cinecanal
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3843
+#EXTINF:-1,Discovery Channel
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3846
+#EXTINF:-1,Discovery Home & Healt
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3847
+#EXTINF:-1,Disney Junior
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3850
+#EXTINF:-1,Star Channel (FOX)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3855
+#EXTINF:-1,HBO Mundi
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3866
+#EXTINF:-1,ESPN DEPORTES
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145416
+#EXTINF:-1,CLARO SPORTS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132338
+#EXTINF:-1,TLNOVELAS 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3798
+#EXTINF:-1,TELENOVELAS Univision
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3678
+#EXTINF:-1,FOX SPORTS ARG
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132268
+#EXTINF:-1,FOX SPORTS 2 MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
+#EXTINF:-1,ESPN 3 MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
+#EXTINF:-1,FOX SPORTS 3 MX 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132271
+#EXTINF:-1,ESPN 2 SUR
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132276
+#EXTINF:-1,ESPN SUR
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
+#EXTINF:-1,ESPN 2 MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132279
+#EXTINF:-1,28 | FOX SPORTS PREMIUM
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138034
+#EXTINF:-1,ESPN 1 MX HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145425
+#EXTINF:-1,FOX SPORTS MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145429
